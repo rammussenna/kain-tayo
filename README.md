@@ -1,6 +1,6 @@
 #  Kain Tayo
 
-**Kain Tayo** is a short psychological horror game (1–2 hours) set in a small, Filipino roadside eatery (*kalenderya*). Behind the sizzle of fried garlic rice and the steam rising from *lugaw* pots, something sinister brews. The player assumes the role of a humble food vendor trying to make ends meet — until the familiar routine starts to twist into something unrecognizable.
+**Kain Tayo** is a short psychological horror game (1–2 hours) set in a small, Filipino roadside eatery (*kalenderya*). Behind the sizzle of fried garlic rice and the steam rising from *lugaw* pots, something sinister brews. The player assumes the role of a humble food vendor trying to make ends meet, until the familiar routine starts to twist into something unrecognizable.
 
 ---
 
@@ -14,12 +14,12 @@
 
 ##  Gameplay Overview
 
-Kain Tayo blends food preparation mechanics with creeping horror. Players cook, serve, and manage their *kalenderya* during the day — and face unexplainable events at night.
+Kain Tayo blends food preparation mechanics with creeping horror. Players cook, serve, and manage their *kalenderya* during the day, and face unexplainable events at night.
 
 ### Features:
 - Realistic and interactive food prep system based on Filipino dishes
 - Time-based day/night cycle with escalating horror elements
-- Fully voice-acted NPCs with branching dialogue
+- Fully voice acted NPCs with branching dialogue
 - Environmental storytelling with clues hidden in objects, photos, and ingredients
 - Soundtrack inspired by lo-fi, jazz, and distorted radio ambience
 
@@ -27,9 +27,9 @@ Kain Tayo blends food preparation mechanics with creeping horror. Players cook, 
 
 ##  Story Summary
 
-The story unfolds in a small barangay where your eatery has stood for years. Patrons are familiar faces — tricycle drivers, students, factory workers. But after a certain *customer* starts appearing regularly, strange things begin to happen.
+The story unfolds in a small barangay where your eatery has stood for years. Patrons are familiar faces, tricycle drivers, students, factory workers. But after a certain *customer* starts appearing regularly, strange things begin to happen.
 
-Burnt food won't stop burning. Meat sizzles even when raw. Customers speak in loops. The smell of vinegar becomes suffocating. You begin to question: what exactly are you serving? And what are you becoming?
+Burnt food won't stop burning. Meat sizzles even when raw. Customers speak in loops. You begin to question: what exactly are you serving? And what are you becoming?
 
 ---
 
